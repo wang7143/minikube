@@ -1,2 +1,2 @@
-FROM gcr.io/google-containers/k8s-dns-dnsmasq-nanny-amd64:1.15.6
+FROM gcr.io/google_samples/gb-frontend:v3
 
